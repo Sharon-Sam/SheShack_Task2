@@ -1,0 +1,14 @@
+body{
+    background: cadetblue;
+    
+}
+.center{
+    position: absolute;
+    left: 35%;
+    border: double;
+    background-color: cornsilk;
+}
+.sharon{
+    position: absolute;
+    top: 20%;
+}
